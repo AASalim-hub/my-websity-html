@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+    background-color: black;
+    background-image: url(IMG_6874.JPG.jpg);
+    background-size: cover;
+    background-position: centerurl;
+    background-repeat: no-repeat;
+}
+
+#salim {
+    background: url(salimphoto.jpeg), rgb(42, 128, 102);
+    width: 400px;
+    text-align: center;
+    border-radius: 15px;
+    border-color: white;
+    margin: auto;
+}
+
+.row {
+    display: table-row;
+}
+
+.row label {
+    display: table-cell;
+    padding: 2px;
+    text-align: right;
+}
+
+.row input {
+    display: table-cell;
+    padding: 2px;
+    border-radius: 5px;
+}
+
+h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+
+#boy {
+    align-content: center;
+}
